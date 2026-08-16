@@ -5,9 +5,6 @@
 
 A **Spotify-inspired music player UI** built using **HTML5 and CSS3**. This project recreates the visual layout of Spotify's web player as a frontend practice project.
 
-## 📸 Preview
-
-![Spotify Clone Preview](./screenshot.png)
 
 ## ✨ Features
 
